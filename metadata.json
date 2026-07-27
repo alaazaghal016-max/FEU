@@ -1,0 +1,6 @@
+{
+  "name": "Arctic Climate Justice & Inuit Advocacy",
+  "description": "Grade 11 NBE3U website researching Arctic climate change as an Inuit human rights issue and the advocacy of Sheila Watt-Cloutier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
